@@ -7,6 +7,9 @@
 // @match      *://*/*
 // ==/UserScript==
 
+//Credit  for this function goes to T.J. Crowder on Stack Overflow via:
+//http://stackoverflow.com/questions/5904914/javascript-regex-to-replace-text-not-in-html-attributes/5904945
+
 walk(document.body);
 
 function walk(node) 
