@@ -5,7 +5,6 @@
 // @description  Professor Challen's 199 class is all about the Internet, so it's time we made the Internet all about him.
 // @author       William Timkey
 // @match      *://*/*
-// @grant        none
 // ==/UserScript==
 
 walk(document.body);

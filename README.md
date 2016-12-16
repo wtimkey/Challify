@@ -11,4 +11,4 @@ It can be installed as either a userscript, or a developer chrome extension.
 
 1. Intall the Tampermonkey extension in [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) 
 
-2. Click [Here](https://raw.githubusercontent.com/wtimkey/Challify/master/Userscript/Challify.js) to install the userscript. It will run by default on any website.
+2. Click [Here](https://raw.githubusercontent.com/wtimkey/Challify/raw/master/Userscript/Challify.js) to install the userscript. It will run by default on any website.
