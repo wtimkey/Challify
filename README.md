@@ -1,6 +1,5 @@
 # Challify
-## v1.0 by William Timkey
-### CSE199 - University at Buffalo
+## v1.0 by William Timkey - CSE199 - University at Buffalo
 
 **Professor Challen's 199 class is all about the Internet, so it's time we made the Internet all about him.**
 
@@ -12,4 +11,4 @@ It can be installed as either a userscript, or a developer chrome extension.
 
 1. Intall the Tampermonkey extension in [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) 
 
-2. Click [Here](https://google.com) to install the userscript. It will run by default on any website.
+2. Click [Here](https://raw.githubusercontent.com/wtimkey/Challify/master/Userscript/Challify.js) to install the userscript. It will run by default on any website.
