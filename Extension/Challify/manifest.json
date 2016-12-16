@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "Challify",
+	"version": "1.0",
+	"description": "Challen's 199 is all about the internet. It's time to make the internet all about him.",
+	"content_scripts": [ {
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"names" : ["names.txt"],
+			"run_at": "document_end"
+		
+		}
+	],
+	
+	"icons": {
+		"128" : "/icon.png"
+	}
+}
+
