@@ -3,7 +3,7 @@
 
 **Professor Challen's 199 class is all about the Internet, so it's time we made the Internet all about him.**
 
-This extension replaces any common name from [this database](https://github.com/enorvelle/NameDatabases/blob/master/NamesDatabases/first%20names/us.txt). It's unnecessarily long, but it was hard to find one with a good length.
+This extension replaces any common name from [this database](https://github.com/enorvelle/NameDatabases/blob/master/NamesDatabases/first%20names/us.txt). It's unnecessarily long, but it was hard to find one with a good length. The function used to replace the text comes from T.J. Crowder on Stack Overflow and can be found [here.](http://stackoverflow.com/questions/5904914/javascript-regex-to-replace-text-not-in-html-attributes/5904945)
 
 It can be installed as either a userscript, or a Chrome extension (.crx). The raw code for the extension is availbable as well.
 
@@ -19,10 +19,7 @@ It can be installed as either a userscript, or a Chrome extension (.crx). The ra
 
 ##To install as a Chrome extension:
 
-1. Clone the Challify repo into your prefered local directory 
-```
-git clone https://github.com/wtimkey/Challify
-```
+1. Clone the Challify repo into your prefered local directory `git clone https://github.com/wtimkey/Challify`
 
 2. Open Chrome, then open the menu in the top right corner. Click on More Tools > Extensions.
 
